@@ -1,4 +1,4 @@
-# Globe Traveler
+# Globe Traveller
 Globe Traveler for GT Bootcamp
 
 Created by David Ludwik, Andrew Koster, and Rahkeem Smith
