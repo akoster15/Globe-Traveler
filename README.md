@@ -1,5 +1,5 @@
-# proj-3
-Project 3 for GT Bootcamp
+# Globe Traveler
+Globe Traveler for GT Bootcamp
 
 Created by David Ludwik, Andrew Koster, and Rahkeem Smith
 
